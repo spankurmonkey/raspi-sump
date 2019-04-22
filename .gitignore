@@ -1,7 +1,0 @@
-*.sw*
-*.pyc
-*.csv
-dist
-*egg-info
-notebook/
-ttt.py

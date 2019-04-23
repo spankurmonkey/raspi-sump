@@ -1,4 +1,4 @@
-Added web.zip -  has web directory for a modified index.html page that allows for one-click viewing of prior water readings and is also mobile responsive.
+Added web.zip -  has web directory for a modified index.html page that allows for one-click viewing of past readings and is also mobile responsive.
 
 
 ![Imgur Image](http://i64.tinypic.com/2csdxck.jpg)

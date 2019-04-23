@@ -7,5 +7,5 @@ http://i64.tinypic.com/2csdxck.jpg
 http://i67.tinypic.com/2prz4ia.jpg
 
 
-![Imgur Image](http://i.imgur.com/zTONrOD.jpg)
+![Imgur Image](http://i64.tinypic.com/2csdxck.jpg)
 
